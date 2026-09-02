@@ -1,0 +1,667 @@
+[
+  {
+    "method_id": "slce",
+    "instrument_id": "flute",
+    "gain_db": -2,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "slce",
+    "instrument_id": "flute",
+    "gain_db": 10,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "slce",
+    "instrument_id": "flute",
+    "gain_db": 15,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "slce",
+    "instrument_id": "flute",
+    "gain_db": 5,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "slce",
+    "instrument_id": "piano",
+    "gain_db": -2,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "slce",
+    "instrument_id": "piano",
+    "gain_db": 10,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "slce",
+    "instrument_id": "piano",
+    "gain_db": 15,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "slce",
+    "instrument_id": "piano",
+    "gain_db": 5,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "slce",
+    "instrument_id": "violin",
+    "gain_db": -2,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "slce",
+    "instrument_id": "violin",
+    "gain_db": 10,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "slce",
+    "instrument_id": "violin",
+    "gain_db": 15,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "slce",
+    "instrument_id": "violin",
+    "gain_db": 5,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "dfcil",
+    "instrument_id": "flute",
+    "gain_db": -2,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "dfcil",
+    "instrument_id": "flute",
+    "gain_db": 10,
+    "muted_intervals": [
+      {
+        "start": 7.42,
+        "end": 7.765
+      }
+    ]
+  },
+  {
+    "method_id": "dfcil",
+    "instrument_id": "flute",
+    "gain_db": 15,
+    "muted_intervals": [
+      {
+        "start": 7.42,
+        "end": 7.865
+      }
+    ]
+  },
+  {
+    "method_id": "dfcil",
+    "instrument_id": "flute",
+    "gain_db": 5,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "dfcil",
+    "instrument_id": "piano",
+    "gain_db": -2,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "dfcil",
+    "instrument_id": "piano",
+    "gain_db": 10,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "dfcil",
+    "instrument_id": "piano",
+    "gain_db": 15,
+    "muted_intervals": [
+      {
+        "start": 7.42,
+        "end": 7.875
+      }
+    ]
+  },
+  {
+    "method_id": "dfcil",
+    "instrument_id": "piano",
+    "gain_db": 5,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "dfcil",
+    "instrument_id": "violin",
+    "gain_db": -2,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "dfcil",
+    "instrument_id": "violin",
+    "gain_db": 10,
+    "muted_intervals": [
+      {
+        "start": 6.0,
+        "end": 6.7
+      },
+      {
+        "start": 7.42,
+        "end": 7.655
+      }
+    ]
+  },
+  {
+    "method_id": "dfcil",
+    "instrument_id": "violin",
+    "gain_db": 15,
+    "muted_intervals": [
+      {
+        "start": 7.42,
+        "end": 7.725
+      }
+    ]
+  },
+  {
+    "method_id": "dfcil",
+    "instrument_id": "violin",
+    "gain_db": 5,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "dfcol-2stage",
+    "instrument_id": "flute",
+    "gain_db": -2,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "dfcol-2stage",
+    "instrument_id": "flute",
+    "gain_db": 10,
+    "muted_intervals": [
+      {
+        "start": 7.42,
+        "end": 7.655
+      }
+    ]
+  },
+  {
+    "method_id": "dfcol-2stage",
+    "instrument_id": "flute",
+    "gain_db": 15,
+    "muted_intervals": [
+      {
+        "start": 0.0,
+        "end": 0.235
+      },
+      {
+        "start": 7.42,
+        "end": 7.745
+      }
+    ]
+  },
+  {
+    "method_id": "dfcol-2stage",
+    "instrument_id": "flute",
+    "gain_db": 5,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "dfcol-2stage",
+    "instrument_id": "piano",
+    "gain_db": -2,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "dfcol-2stage",
+    "instrument_id": "piano",
+    "gain_db": 10,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "dfcol-2stage",
+    "instrument_id": "piano",
+    "gain_db": 15,
+    "muted_intervals": [
+      {
+        "start": 0.0,
+        "end": 0.205
+      },
+      {
+        "start": 7.42,
+        "end": 15.0
+      }
+    ]
+  },
+  {
+    "method_id": "dfcol-2stage",
+    "instrument_id": "piano",
+    "gain_db": 5,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "dfcol-2stage",
+    "instrument_id": "violin",
+    "gain_db": -2,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "dfcol-2stage",
+    "instrument_id": "violin",
+    "gain_db": 10,
+    "muted_intervals": [
+      {
+        "start": 7.42,
+        "end": 7.685
+      }
+    ]
+  },
+  {
+    "method_id": "dfcol-2stage",
+    "instrument_id": "violin",
+    "gain_db": 15,
+    "muted_intervals": [
+      {
+        "start": 0.0,
+        "end": 7.42
+      },
+      {
+        "start": 7.42,
+        "end": 7.765
+      }
+    ]
+  },
+  {
+    "method_id": "dfcol-2stage",
+    "instrument_id": "violin",
+    "gain_db": 5,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "dfcol-1stage",
+    "instrument_id": "flute",
+    "gain_db": -2,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "dfcol-1stage",
+    "instrument_id": "flute",
+    "gain_db": 10,
+    "muted_intervals": [
+      {
+        "start": 7.42,
+        "end": 7.655
+      }
+    ]
+  },
+  {
+    "method_id": "dfcol-1stage",
+    "instrument_id": "flute",
+    "gain_db": 15,
+    "muted_intervals": [
+      {
+        "start": 0.0,
+        "end": 0.325
+      },
+      {
+        "start": 7.42,
+        "end": 15.0
+      }
+    ]
+  },
+  {
+    "method_id": "dfcol-1stage",
+    "instrument_id": "flute",
+    "gain_db": 5,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "dfcol-1stage",
+    "instrument_id": "piano",
+    "gain_db": -2,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "dfcol-1stage",
+    "instrument_id": "piano",
+    "gain_db": 10,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "dfcol-1stage",
+    "instrument_id": "piano",
+    "gain_db": 15,
+    "muted_intervals": [
+      {
+        "start": 0.0,
+        "end": 0.275
+      },
+      {
+        "start": 7.42,
+        "end": 8.0
+      },
+      {
+        "start": 9.3,
+        "end": 15.0
+      }
+    ]
+  },
+  {
+    "method_id": "dfcol-1stage",
+    "instrument_id": "piano",
+    "gain_db": 5,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "dfcol-1stage",
+    "instrument_id": "violin",
+    "gain_db": -2,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "dfcol-1stage",
+    "instrument_id": "violin",
+    "gain_db": 10,
+    "muted_intervals": [
+      {
+        "start": 7.42,
+        "end": 7.715
+      }
+    ]
+  },
+  {
+    "method_id": "dfcol-1stage",
+    "instrument_id": "violin",
+    "gain_db": 15,
+    "muted_intervals": [
+      {
+        "start": 0.0,
+        "end": 7.42
+      },
+      {
+        "start": 7.42,
+        "end": 15.0
+      }
+    ]
+  },
+  {
+    "method_id": "dfcol-1stage",
+    "instrument_id": "violin",
+    "gain_db": 5,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "nlms",
+    "instrument_id": "flute",
+    "gain_db": -2,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "nlms",
+    "instrument_id": "flute",
+    "gain_db": 10,
+    "muted_intervals": [
+      {
+        "start": 0.0,
+        "end": 0.425
+      },
+      {
+        "start": 7.42,
+        "end": 7.805
+      }
+    ]
+  },
+  {
+    "method_id": "nlms",
+    "instrument_id": "flute",
+    "gain_db": 15,
+    "muted_intervals": [
+      {
+        "start": 0.0,
+        "end": 0.575
+      },
+      {
+        "start": 7.42,
+        "end": 8.055
+      }
+    ]
+  },
+  {
+    "method_id": "nlms",
+    "instrument_id": "flute",
+    "gain_db": 5,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "nlms",
+    "instrument_id": "piano",
+    "gain_db": -2,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "nlms",
+    "instrument_id": "piano",
+    "gain_db": 10,
+    "muted_intervals": [
+      {
+        "start": 0.0,
+        "end": 0.605
+      },
+      {
+        "start": 7.42,
+        "end": 7.985
+      }
+    ]
+  },
+  {
+    "method_id": "nlms",
+    "instrument_id": "piano",
+    "gain_db": 15,
+    "muted_intervals": [
+      {
+        "start": 0.0,
+        "end": 0.605
+      },
+      {
+        "start": 7.42,
+        "end": 7.985
+      }
+    ]
+  },
+  {
+    "method_id": "nlms",
+    "instrument_id": "piano",
+    "gain_db": 5,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "nlms",
+    "instrument_id": "violin",
+    "gain_db": -2,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "nlms",
+    "instrument_id": "violin",
+    "gain_db": 10,
+    "muted_intervals": [
+      {
+        "start": 0.0,
+        "end": 0.335
+      },
+      {
+        "start": 7.42,
+        "end": 7.855
+      }
+    ]
+  },
+  {
+    "method_id": "nlms",
+    "instrument_id": "violin",
+    "gain_db": 15,
+    "muted_intervals": [
+      {
+        "start": 0.0,
+        "end": 0.515
+      },
+      {
+        "start": 7.42,
+        "end": 8.045
+      }
+    ]
+  },
+  {
+    "method_id": "nlms",
+    "instrument_id": "violin",
+    "gain_db": 5,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "pemnlms",
+    "instrument_id": "flute",
+    "gain_db": -2,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "pemnlms",
+    "instrument_id": "flute",
+    "gain_db": 10,
+    "muted_intervals": [
+      {
+        "start": 0.0,
+        "end": 1.235
+      },
+      {
+        "start": 7.42,
+        "end": 8.635
+      }
+    ]
+  },
+  {
+    "method_id": "pemnlms",
+    "instrument_id": "flute",
+    "gain_db": 15,
+    "muted_intervals": [
+      {
+        "start": 0.0,
+        "end": 2.175
+      },
+      {
+        "start": 7.42,
+        "end": 9.575
+      }
+    ]
+  },
+  {
+    "method_id": "pemnlms",
+    "instrument_id": "flute",
+    "gain_db": 5,
+    "muted_intervals": [
+      {
+        "start": 0.0,
+        "end": 0.335
+      },
+      {
+        "start": 7.42,
+        "end": 7.855
+      }
+    ]
+  },
+  {
+    "method_id": "pemnlms",
+    "instrument_id": "piano",
+    "gain_db": -2,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "pemnlms",
+    "instrument_id": "piano",
+    "gain_db": 10,
+    "muted_intervals": [
+      {
+        "start": 0.0,
+        "end": 1.265
+      },
+      {
+        "start": 7.42,
+        "end": 8.155
+      }
+    ]
+  },
+  {
+    "method_id": "pemnlms",
+    "instrument_id": "piano",
+    "gain_db": 15,
+    "muted_intervals": [
+      {
+        "start": 0.0,
+        "end": 2.385
+      },
+      {
+        "start": 7.42,
+        "end": 9.065
+      }
+    ]
+  },
+  {
+    "method_id": "pemnlms",
+    "instrument_id": "piano",
+    "gain_db": 5,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "pemnlms",
+    "instrument_id": "violin",
+    "gain_db": -2,
+    "muted_intervals": []
+  },
+  {
+    "method_id": "pemnlms",
+    "instrument_id": "violin",
+    "gain_db": 10,
+    "muted_intervals": [
+      {
+        "start": 0.0,
+        "end": 1.045
+      },
+      {
+        "start": 7.42,
+        "end": 8.855
+      }
+    ]
+  },
+  {
+    "method_id": "pemnlms",
+    "instrument_id": "violin",
+    "gain_db": 15,
+    "muted_intervals": [
+      {
+        "start": 0.0,
+        "end": 2.015
+      },
+      {
+        "start": 7.42,
+        "end": 9.865
+      }
+    ]
+  },
+  {
+    "method_id": "pemnlms",
+    "instrument_id": "violin",
+    "gain_db": 5,
+    "muted_intervals": [
+      {
+        "start": 0.0,
+        "end": 0.255
+      },
+      {
+        "start": 7.42,
+        "end": 9.095
+      }
+    ]
+  }
+]
